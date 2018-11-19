@@ -1,0 +1,23 @@
+{
+  "name": "jsm1t4",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "description": "",
+  "main": "Task4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaALD/JSM1T4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaALD/JSM1T4/issues"
+  },
+  "homepage": "https://github.com/DimaALD/JSM1T4#readme"
+}
